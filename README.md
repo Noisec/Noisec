@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Noisec
+- 👀 I’m interested in programming, anime, and in anything related to any .exe file 
+- 🌱 I’m currently learning python and vb.net
+- 📫 You can reach me on discord (NΘISS⌥#6149 or https://discord.gg/Eh5b2MMH) and email (keyooff@gmail.com)
