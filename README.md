@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="https://discord.gg/Eh5b2MMH" target="blank">
+<a href="https://discord.gg/FUUf8yGp9T" target="blank">
     <img src="https://img.shields.io/badge/Discord-7389DC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 </p>
