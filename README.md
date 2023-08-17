@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noisec
 - 👀 I’m interested in programming (python,vb.net), and in anything related to any .exe file 
 - 🌱 I’m currently learning python
-- 📫 You can reach me on discord (ИΘIƧƧ#6149) and via email (keyooff@gmail.com)
+- 📫 You can reach me on discord (noi.sec) and via email (keyooff@gmail.com)
 
 
 <p align="center">
