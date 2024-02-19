@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noisec
 - 👀 I’m interested in anything related to any .exe file 
-- 🌱 I’m currently learning python and 👓
+- 📓 I’m currently learning python and 👓 (also learned vb.net,html,css and js)
 - 📫 You can reach me on discord (noi.sec)
 
 
