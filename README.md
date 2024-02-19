@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img style="width:600;length:327" src="https://media.discordapp.net/attachments/1051113640733966407/1063952066025902120/Untitled3.png" />
+  <img style="width:600;length:327" src="https://github.com/Noisec/pic-s/blob/main/images/Untitled%20(1).png?raw=true" />
 </p>
 
 
