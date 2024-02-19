@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noisec
-- 👀 I’m interested in programming (python,vb.net,c#), and in anything related to any .exe file 
+- 👀 I’m interested in anything related to any .exe file 
 - 🌱 I’m currently learning python and 👓
 - 📫 You can reach me on discord (noi.sec)
 
