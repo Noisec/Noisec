@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img style="width:600;length:327" src="https://github.com/Noisec/pic-s/blob/main/images/Untitled%20(1).png?raw=true" />
+  <img style="width:600;length:327" src="https://github.com/Noisec/pic-s/blob/main/images/Untitled%20(2).png?raw=true" />
 </p>
 
 
