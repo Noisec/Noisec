@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Noisec&color=grey)
 
 
-
+also, <a lustaság az összes találmány alapja>
 
 
 
