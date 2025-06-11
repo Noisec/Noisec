@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noisec
 - 👀 I’m interested in anything related to any .exe file 
-- 🗃️ I’m currently learning python and 👓 (also learned vb.net,html,css and js a while ago)
+- 🗃️ Currently learning python and C# (also learned vb.net, html, css and js a while ago)
 
 ![](https://komarev.com/ghpvc/?username=Noisec&color=grey)
 
